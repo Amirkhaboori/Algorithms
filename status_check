@@ -1,0 +1,16 @@
+Input
+Student = (input) Mahdi;
+Grade 1 = (input) 100;
+Grade 2 = (input) 99;
+Grade 3 = (input) 100;
+Grade 4 = (input) 95;
+Average =? ;
+Status =? ;
+Process 
+Average = (Grade 1 + Grade 2 + Grade 3 + Grade 4)/4
+If (average>=60) then Status = “approved”;
+Else status = “reproved”; 
+
+Output
+Print average;
+Print status;
