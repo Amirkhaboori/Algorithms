@@ -1,0 +1,12 @@
+input
+i =2;
+j=? ;
+x=i,
+Sum=0;
+
+PROCESS
+For (x=i ; x<=j ; x= x+1 );
+Sum = Sum + x;
+
+OUTPUT
+Print Sum;
