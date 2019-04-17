@@ -1,0 +1,9 @@
+Input
+N=?;
+S=?;
+
+Process
+S= (N*(N+1))/2
+
+Output
+Print S
