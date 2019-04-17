@@ -1,0 +1,10 @@
+INPUT
+i = 1;	
+Sum=0;
+
+PROCESS
+For ( i=1 ; i <=100 ; i = i+2);
+Sum = Sum + i;
+
+OUTPUT
+Print Sum;
