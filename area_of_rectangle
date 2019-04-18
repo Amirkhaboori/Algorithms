@@ -1,0 +1,8 @@
+INPUT
+B=input;
+C= input;
+A=?;
+process
+A=B*C
+OUTPUT
+PRINT A
