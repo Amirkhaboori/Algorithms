@@ -1,0 +1,8 @@
+INPUT
+H=input;
+C= input;
+A=?;
+process
+A= (H*C)/2
+OUTPUT
+PRINT A
