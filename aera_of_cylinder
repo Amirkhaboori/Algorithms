@@ -1,0 +1,5 @@
+INPUT
+Pi/𝜋 = 3.14R=input;H=input;A=?;process
+A=2𝜋rh+2𝜋R^2
+OUTPUT
+PRINT A
